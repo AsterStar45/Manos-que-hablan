@@ -99,4 +99,5 @@ Desarrollar una plataforma web que permita a los usuarios:
 ## 👨‍💻 Autores
 
 **Pedro Juan Mendoza Ovallos**
+
 **Miguel Ángel Ramírez Corredor**
