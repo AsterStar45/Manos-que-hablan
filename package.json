@@ -1,0 +1,21 @@
+{
+  "name": "manos-que-hablan",
+  "version": "1.0.0",
+  "description": "Plataforma para aprender el Lenguaje de Señas Colombiano (LSC) con práctica de cámara web simulada por IA.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "http-server -p 3000 -c-1"
+  },
+  "keywords": [
+    "lsc",
+    "lenguaje-de-senas",
+    "colombia",
+    "educacion",
+    "ia"
+  ],
+  "author": "Antigravity",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
