@@ -86,12 +86,6 @@ Desarrollar una plataforma web que permita a los usuarios:
 
 ---
 
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas 🙌
-
----
-
 ## ❤️ Impacto Social
 
 “Manos Que Hablan” busca:
